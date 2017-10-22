@@ -7,8 +7,8 @@ public class BirthdayReminder {
 		
 		// 1. OPTION: correct the birthdays for your family below
 		String momsBirthday = "January 24th";
-		String dadsBirthday = "June 9th";
-		String myBirthday = "April 16th";
+		String dadsBirthday = "October 11th";
+		String myBirthday = "September 9th";
 
 		// 2. Find out whose birthday the user wants and and store their response in a variable
 	
